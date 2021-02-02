@@ -38,7 +38,7 @@ console.log(colorHEX())
           <div className="father">
 
             <div>
-              <a style={{ backgroundColor: '' + color + '' }} className="twitterfa" href="www.google.com" target="_blank"><FaTwitter /></a>
+              <a style={{ backgroundColor: '' + color + '' }} className="twitterfa" href="https://twitter.com/compose/tweet" target="_blank" rel="noreferrer"><FaTwitter /></a>
             </div>
 
             <div className="buttom">
